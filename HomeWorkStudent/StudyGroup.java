@@ -2,6 +2,9 @@ package HomeWorkStudent;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import Seminar_11.modell.Teacher;
+
 import java.util.*;
 import java.util.Iterator;
 
@@ -31,5 +34,10 @@ public class StudyGroup  {
             sb.append(student.toString()).append("\n");
         }
         return sb.toString();
+    }
+
+    public Teacher getTeacher() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getTeacher'");
     }
 }
