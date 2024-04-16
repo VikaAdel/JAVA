@@ -1,5 +1,5 @@
 package Book;
-
+// Класс Main для демонстрации работы с библиотекой
 public class Main {
     public static void main(String[] args) {
         // книги

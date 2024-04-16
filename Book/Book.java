@@ -1,7 +1,8 @@
 package Book;
 
+// Класс книги, параметризованный обобщенным типом T
 public class Book<T> {
-    private T title;
+    private T title;// Название книги
 
     public Book(T title) {
         this.title = title;
