@@ -1,4 +1,3 @@
-
 public class Ex002_MultiPair {
     public static void main(String[] args) {
         MultiPair<Integer, String> mp1 = new MultiPair<>(123, "str");
